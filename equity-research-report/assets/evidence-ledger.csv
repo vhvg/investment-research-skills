@@ -1,0 +1,2 @@
+id,claim,evidence_type,source_name,publish_date,data_period,locator_or_url,raw_value,raw_unit,normalized_value,normalized_unit,transformation,confidence,report_use,notes
+S001,示例命题,事实,示例原始来源,YYYY-MM-DD,YYYY/FY,页码或URL,原始值,原单位,标准值,标准单位,换算或重分类步骤,高,章节或图表,替换本示例并继续编号

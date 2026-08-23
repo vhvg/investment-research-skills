@@ -1,0 +1,4 @@
+interface:
+  display_name: "个股深度研究报告"
+  short_description: "撰写有证据链、卖方文风、预测估值与风险校验的中文深度报告"
+  default_prompt: "使用 $equity-research-report，以结论型标题和克制的中文卖方文风撰写一份有证据支撑、含预测与估值的个股深度研究报告。"
