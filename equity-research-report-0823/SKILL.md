@@ -1,5 +1,5 @@
 ---
-name: equity-research-report
+name: equity-research-report-0823
 description: Create source-backed Chinese institutional public-equity research reports with professional sell-side prose, detailed charts and tables, a traceable figure-source workbook, financial forecasts, valuation, risks, and staged long-form drafting. Use for 深度研究报告、投资价值分析、个股深度、品牌或业务专题、行业策略、事件跟踪、财报更新、盈利预测、估值评级、目标价、投资逻辑，或需要把公告、市场数据、访谈与参考报告整理成中文机构研究成稿及配套底稿。
 ---
 

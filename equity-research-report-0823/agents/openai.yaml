@@ -1,4 +1,4 @@
 interface:
-  display_name: "个股深度研究报告"
+  display_name: "equity-research-report-0823"
   short_description: "专业机构文风、自由格式数据底稿与分段写作的个股深度报告"
-  default_prompt: "使用 $equity-research-report，分阶段撰写一份有证据支撑、含自由格式深度报告底稿、盈利预测与估值的中文个股深度研究报告。"
+  default_prompt: "使用 $equity-research-report-0823，分阶段撰写一份有证据支撑、含自由格式深度报告底稿、盈利预测与估值的中文个股深度研究报告。"
