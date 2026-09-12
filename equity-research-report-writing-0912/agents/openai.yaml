@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度研究报告写作"
+  short_description: "按资料与研究要点撰写深度研究报告正文，重点校准行文逻辑与措辞"
+  default_prompt: "请使用 $equity-research-report-writing，将我提供的资料和研究要点写成连贯的研报正文，保留事实、数字及判断力度。"
